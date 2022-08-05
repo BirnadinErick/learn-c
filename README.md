@@ -1,20 +1,25 @@
 # learn-c
-my self-guide to learn c and a personal reference
+
+![Learn C Banner](static/github_social_label.png)
 
 ## Why?
+
 Of course there are many resources available, made by much-experienced people. But I needed something
 I can refer to in short time in my language, so I created this repo. I thought this also could be a place
-for me to enhance my skills by **learning from teaching**, good-old-*Feyman* way.
+for me to enhance my skills by **learning from teaching**, good-old-_Feyman_ way.
 
 ## Quality
+
 This resource is from a c-noob, so this may contain mis-nomers, bad-practices or streaight up bugs. So, please journ with
 a awareness.
 
 ## What are included?
+
 As the description says,
+
 > my self-guide to learn c and a personal reference
 
-this is a *self-guide*, so tips and tacks I need while developing &amp; a *reference*, thus a handbook if I am stuck somewhere
+this is a _self-guide_, so tips and tacks I need while developing &amp; a _reference_, thus a handbook if I am stuck somewhere
 and links to some concepts if I need a quick recap 😉.
 
 ---
