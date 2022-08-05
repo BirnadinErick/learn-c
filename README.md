@@ -13,6 +13,7 @@ a awareness.
 ## What are included?
 As the description says,
 > my self-guide to learn c and a personal reference
+
 this is a *self-guide*, so tips and tacks I need while developing &amp; a *reference*, thus a handbook if I am stuck somewhere
 and links to some concepts if I need a quick recap 😉.
 
