@@ -116,4 +116,4 @@ dist
 
 # Production
 /build
-
+**/*.exe
