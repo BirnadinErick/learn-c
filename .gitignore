@@ -117,3 +117,7 @@ dist
 # Production
 /build
 **/*.exe
+
+# build files
+*.ilk
+*.pdb
